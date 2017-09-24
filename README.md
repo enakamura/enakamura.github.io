@@ -1,2 +1,5 @@
 # enakamura.github.io
-Personal page
+Personal page on github
+
+* How to acces?
+URL: http://enakamura.github.io
