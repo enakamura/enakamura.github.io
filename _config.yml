@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: naka's page
 description: some notes to provide a little help!
+show_downloads: false
